@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Eleni Yohannis
 
-<!--
-**Elecoo/Elecoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate IT graduate and developer interested in building digital solutions that solve real-world problems.
 
-Here are some ideas to get you started:
+### 🔧 About Me
+- 🎓 Graduated in Information Technology from Debre Markos University
+- 🌱 Currently learning: React.js, Node.js
+- 💼 Intern at ethiotelecom 
+- 🧠 Passionate about: Web Development | Mobile Apps | UI/UX Design
+- 🛠️ Tools & Languages: Java, JavaScript, PHP, HTML/CSS, MySQL, Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 📱 [Online House Rental System](https://github.com/Elecoo/online-house-rental) – Web-based lease agreement platform
+
+
+### 🤝 Let's Connect
+- 📫 Email: eleniyohannis42@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/www.linkedin.com/in/eleni-yohannis-987077374](https://linkedin.com/in/eleni-yohannis-987077374)  
+
+### ⚡ Fun Fact
+I love turning community-based problems into simple software solutions that anyone can use!
+
