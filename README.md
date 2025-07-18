@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate IT graduate and developer interested in b
 - 🛠️ Tools & Languages: Java, JavaScript, PHP, HTML/CSS, MySQL, Git, VS Code
 
 ### 🚀 Projects
-- 📱 [Online House Rental System](https://github.com/Elecoo/online-house-rental) – Web-based lease agreement platform
+- 📱 [Online House Rental System](https://github.com/Elecoo/online-house-rental-system) – Web-based lease agreement platform
 
 
 ### 🤝 Let's Connect
